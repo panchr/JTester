@@ -1,0 +1,1141 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getF",
+				"getNumberFailedTests"
+			],
+			[
+				"fail",
+				"failedTests"
+			],
+			[
+				"numbr",
+				"numberTests"
+			],
+			[
+				"number",
+				"numberTests"
+			],
+			[
+				"fi",
+				"forin	for … in … done"
+			],
+			[
+				"link-",
+				"link-color-hover"
+			],
+			[
+				"expan",
+				"expansion_dom"
+			],
+			[
+				"regex",
+				"regexSimilarity"
+			],
+			[
+				"desc_",
+				"desc_matches"
+			],
+			[
+				"name_",
+				"name_weight"
+			],
+			[
+				"name",
+				"name_value"
+			],
+			[
+				"repob-",
+				"repo-button-color-secondary"
+			],
+			[
+				"git",
+				"github_url"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"subs",
+				"subscribers_url"
+			],
+			[
+				"forks",
+				"forks_url"
+			],
+			[
+				"stargaz",
+				"stargazers_url"
+			],
+			[
+				"lag",
+				"language_data"
+			],
+			[
+				"language",
+				"language_data"
+			],
+			[
+				"document",
+				"document_body"
+			],
+			[
+				"toLo",
+				"toLocaleDate"
+			],
+			[
+				"github",
+				"github_api_base"
+			],
+			[
+				"repos",
+				"repository"
+			],
+			[
+				"current",
+				"current_path"
+			],
+			[
+				"reset",
+				"resetSizes"
+			],
+			[
+				"DB_META_",
+				"DB_META_USER"
+			],
+			[
+				"repo",
+				"repo-button-background-color"
+			],
+			[
+				"repo-b",
+				"repo-button-color"
+			],
+			[
+				"scroll",
+				"scroll_button"
+			],
+			[
+				"export",
+				"export_name"
+			],
+			[
+				"FILE",
+				"FILE_TIMES"
+			],
+			[
+				"depl",
+				"deploy_file"
+			],
+			[
+				"EC",
+				"EXCLUDE_STR"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"trans",
+				"transition	Bourbon"
+			],
+			[
+				"dogecoind",
+				"dogecoind_running"
+			],
+			[
+				"doge",
+				"dogecoin_processes"
+			],
+			[
+				"store",
+				"storeCurrentRate"
+			],
+			[
+				"resetL",
+				"resetLimitsButton"
+			],
+			[
+				"sqlite",
+				"sqlite_master"
+			],
+			[
+				"Table",
+				"Table"
+			],
+			[
+				"SQL",
+				"SQLString"
+			],
+			[
+				"report",
+				"reportFrameSuper"
+			],
+			[
+				"userFrame",
+				"userFrameSuper"
+			],
+			[
+				"misc",
+				"miscChildFrame"
+			],
+			[
+				"title",
+				"title_columns"
+			],
+			[
+				"repositories",
+				"repositories-slider"
+			],
+			[
+				"reposi",
+				"repositories-slider"
+			],
+			[
+				"transi",
+				"transition_type"
+			],
+			[
+				"cou",
+				"carousel_class"
+			],
+			[
+				"get",
+				"getDocumentHeight"
+			],
+			[
+				"so",
+				"so-logo-header"
+			],
+			[
+				"repo_li",
+				"repo_link_hover"
+			],
+			[
+				"repo_",
+				"repo_link_hover"
+			],
+			[
+				"main",
+				"main_repo_div"
+			],
+			[
+				"history",
+				"historyDisplay"
+			],
+			[
+				"spec",
+				"specUserFrame"
+			],
+			[
+				"spe",
+				"specUserFrame"
+			],
+			[
+				"retur",
+				"return_value"
+			],
+			[
+				"Execut",
+				"ExecutionCursor"
+			],
+			[
+				"user",
+				"userFrame"
+			],
+			[
+				"log",
+				"logResultDisplay"
+			],
+			[
+				"repot",
+				"reportResultDisplay"
+			],
+			[
+				"month",
+				"monthEntry"
+			],
+			[
+				"date",
+				"dateEntry2"
+			],
+			[
+				"date2",
+				"date2Label"
+			],
+			[
+				"date1",
+				"date1Label"
+			],
+			[
+				"dateEnt",
+				"dateEntry1"
+			],
+			[
+				"hour",
+				"hourEntry"
+			],
+			[
+				"userSe",
+				"userSearchFrame"
+			],
+			[
+				"amount",
+				"amount_usd"
+			],
+			[
+				"unread_",
+				"unread_emails"
+			],
+			[
+				"cron_",
+				"cron_message_getter"
+			],
+			[
+				"sch",
+				"scheduler"
+			],
+			[
+				"HTML",
+				"HTML_ELEMENTS"
+			],
+			[
+				"tick",
+				"ticketStatus"
+			],
+			[
+				"HTML_",
+				"HTML_FOOTER"
+			],
+			[
+				"color",
+				"colorLabel"
+			],
+			[
+				"OPT",
+				"OPTIONS"
+			],
+			[
+				"wrap",
+				"wrapVar"
+			],
+			[
+				"Ch",
+				"Checkbutton"
+			],
+			[
+				"next",
+				"nextRowsButton"
+			],
+			[
+				"prev",
+				"prevRowsButton"
+			],
+			[
+				"num",
+				"num_rows"
+			],
+			[
+				"curre",
+				"current_rows"
+			],
+			[
+				"cur",
+				"current_rows"
+			],
+			[
+				"curr",
+				"current_rows"
+			],
+			[
+				"display",
+				"displayRows"
+			],
+			[
+				"intere",
+				"interestLabel"
+			],
+			[
+				"inter",
+				"interestDesc"
+			],
+			[
+				"dimen",
+				"dimensionDesc"
+			],
+			[
+				"row",
+				"rowWindow"
+			],
+			[
+				"oPt",
+				"OptionHeader"
+			],
+			[
+				"hist",
+				"historyButton"
+			],
+			[
+				"height",
+				"height_cells"
+			],
+			[
+				"grid_",
+				"grid_forget"
+			],
+			[
+				"rule",
+				"ruleFrame"
+			],
+			[
+				"rul",
+				"rulesFrame"
+			],
+			[
+				"exam",
+				"exampleLabel"
+			],
+			[
+				"curren",
+				"current_row"
+			],
+			[
+				"create",
+				"createInterface"
+			],
+			[
+				"DEA",
+				"DEFAULT_SETTINGS_PATH"
+			],
+			[
+				"default",
+				"defaultButton"
+			],
+			[
+				"heig",
+				"heightSlider"
+			],
+			[
+				"sie",
+				"sizeLabel"
+			],
+			[
+				"IMAGE",
+				"IMAGES_DIR"
+			],
+			[
+				"draw",
+				"drawButton"
+			],
+			[
+				"ca_",
+				"ca_grid"
+			],
+			[
+				"edit",
+				"editButton"
+			],
+			[
+				"rules",
+				"ruleset"
+			],
+			[
+				"hei",
+				"heightSlider"
+			],
+			[
+				"wid",
+				"widthSlider"
+			],
+			[
+				"settings",
+				"settingsButton"
+			],
+			[
+				"SETTIN",
+				"SETTINGS_EDIT"
+			],
+			[
+				"allow",
+				"allowInitialVar"
+			],
+			[
+				"font",
+				"fontEntry"
+			],
+			[
+				"full",
+				"fullscreen"
+			],
+			[
+				"fulls",
+				"fullscreenVar"
+			],
+			[
+				"sett",
+				"SETTINGS_FILE"
+			],
+			[
+				"SETTING",
+				"SETTINGS_PATH"
+			],
+			[
+				"outlin",
+				"outlineColor"
+			],
+			[
+				"Options_",
+				"Options_RuleScreen"
+			],
+			[
+				"Options",
+				"Options_InterestScreen"
+			],
+			[
+				"ca",
+				"ca_screen"
+			],
+			[
+				"D",
+				"DATABASE"
+			],
+			[
+				"desc",
+				"descLabel"
+			],
+			[
+				"T",
+				"TLabel"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "JTester.java",
+			"settings":
+			{
+				"buffer_size": 3548,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"repl py",
+				"SublimeREPL: Python"
+			],
+			[
+				"replpy",
+				"SublimeREPL: Python"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"compres",
+				"Build: Compress"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"packageinst",
+				"Package Control: Install Package"
+			],
+			[
+				"bul",
+				"Build: Compile"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"toggle",
+				"Toggle Block Comment"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: lo",
+				"Snippet: for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			],
+			[
+				"view",
+				"View: Toggle Status Bar"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 254.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/panchr/SkyDrive/Documents/Projects/Java/JTester/.gitignore",
+		"/C/Users/panchr/SkyDrive/Documents/Projects/Misc/gitToken.txt",
+		"/C/Users/panchr/SkyDrive/documents/Projects/Java/Fraction/FractionTesterTest.java",
+		"/C/Users/panchr/SkyDrive/Documents/Projects/Java/Fraction/JTester.java",
+		"/C/Users/panchr/SkyDrive/Documents/Projects/Java/Fraction/FractionTester.java",
+		"/C/Users/panchr/SkyDrive/documents/Projects/Java/JTester/Jtestertest.java",
+		"/C/Users/panchr/SkyDrive/Documents/SCHOOL/Computer Science/Iwanski Thanker/iwanski.py",
+		"/C/Users/panchr/SkyDrive/documents/Projects/Python/iwanski.py",
+		"/C/Users/panchr/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/media/panchr/9AFB445D1724C309/Users/Rushy/OneDrive/Documents/Projects/Misc/Doge Projects/Doge Trader Bot/init.sh",
+		"/C/Users/Rushy/OneDrive/documents/Projects/Misc/Doge Projects/Doge Trader Bot/init.sh",
+		"/C/Users/Rushy/OneDrive/documents/Projects/Misc/Doge Projects/Doge Trader Bot/.gitignore",
+		"/C/Users/panchr/skydrive/documents/Projects/Web/panchr.me/bootstrap/bootstrap.sh",
+		"/C/Users/panchr/skydrive/documents/Projects/Web/panchr.me/bootstrap/fullserver.sh",
+		"/C/Users/panchr/skydrive/Documents/Projects/Web/panchr.me/bootstrap.sh",
+		"/C/Users/panchr/skydrive/Desktop/fullserver.sh",
+		"/C/Users/panchr/skydrive/documents/Projects/Misc/Project Euler/Problems 1-50/pE Q10.py",
+		"/C/Users/panchr/skydrive/documents/Projects/Misc/Project Euler/Problems 1-50/pE Q3.py",
+		"/C/Users/panchr/skydrive/documents/Projects/Misc/Project Euler/startingcode.py",
+		"/C/Users/panchr/skydrive/documents/Projects/Misc/Doge Projects/Doge Trader Bot/botcmds.py",
+		"/C/Users/panchr/skydrive/documents/Projects/Misc/Doge Projects/Doge Trader Bot/.gitignore",
+		"/C/Users/panchr/skydrive/documents/Projects/Misc/Doge Projects/Doge Trader Bot/init.sh",
+		"/C/Users/panchr/skydrive/documents/Projects/Web/panchr.me/public_html/js/status.js",
+		"/C/Users/panchr/SkyDrive/Desktop/ubuntu.txt",
+		"/C/Users/panchr/skydrive/documents/Projects/Web/panchr.me/lib.php",
+		"/C/Users/panchr/skydrive/Documents/Projects/Misc/delSpareBackup.py",
+		"/C/Users/panchr/skydrive/documents/Projects/Web/panchr.me/public_html/assets/js/lib.js",
+		"/C/Users/Rushy/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Rushy/OneDrive/documents/Projects/Web/panchr.me/bootstrap.sh",
+		"/C/Users/Rushy/OneDrive/documents/Projects/Web/panchr.me/public_html/header.php",
+		"/C/Users/Rushy/OneDrive/documents/Projects/Web/panchr.me/lib.php",
+		"/C/Users/Rushy/OneDrive/documents/Projects/Web/panchr.me/.htaccess",
+		"/C/Users/Rushy/OneDrive/documents/Projects/Web/panchr.me/public_html/assets/js/lib.js",
+		"/C/Users/Rushy/OneDrive/documents/Projects/Web/panchr.me/public_html/css/styles.scss",
+		"/C/Users/Rushy/OneDrive/documents/Projects/Web/panchr.me/public_html/assets/css/menu.scss",
+		"/C/Users/Panchr/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Panchr/OneDrive/Documents/Projects/Web/panchr.me/public_html/assets/css/menu.scss",
+		"/C/Users/Panchr/OneDrive/Documents/Projects/Web/panchr.me/bootstrap.sh",
+		"/C/Users/Panchr/OneDrive/Documents/Projects/Web/panchr.me/.gitignore",
+		"/C/Users/Panchr/OneDrive/Documents/Projects/Web/panchr.me/.git/COMMIT_EDITMSG",
+		"/C/Users/Panchr/OneDrive/Documents/Projects/Web/panchr.me/public_html/header.php",
+		"/C/Users/Panchr/OneDrive/Documents/Projects/Misc/Doge Projects/Doge Trader Bot/core/server.py",
+		"/C/Users/Panchr/skydrive/desktop/server.py",
+		"/C/Users/Panchr/OneDrive/Documents/Projects/Misc/Doge Projects/Doge Trader Bot/core/__init__.py",
+		"/C/Users/Panchr/skydrive/desktop/New Text Document.txt",
+		"/C/Users/Panchr/OneDrive/Documents/Project Backups/server-2014-10-25_17-27-01.py",
+		"/C/Users/Panchr/OneDrive/Documents/Projects/Web/panchr.me/public_html/assets/css/_menulib.scss",
+		"/C/Users/Panchr/OneDrive/Documents/Projects/Web/panchr.me/public_html/assets/css/menu.css",
+		"/C/Users/Rushy/OneDrive/documents/Projects/MATLAB/pgrank.m",
+		"/C/Users/Rushy/OneDrive/documents/Projects/HTML/panchr.me/public_html/header.php",
+		"/C/Users/Rushy/OneDrive/documents/Projects/HTML/panchr.me/public_html/assets/js/menu.js",
+		"/C/Users/Rushy/OneDrive/documents/Projects/HTML/panchr.me/public_html/assets/js/cache.js",
+		"/C/Users/Rushy/OneDrive/documents/Projects/HTML/panchr.me/.htaccess",
+		"/C/Users/Rushy/OneDrive/documents/Projects/HTML/panchr.me/public_html/404.php",
+		"/C/Users/Rushy/OneDrive/documents/Projects/HTML/panchr.me/lib.php",
+		"/C/Users/Rushy/Desktop/Highcharts-4.0.4/js/highcharts.js",
+		"/C/Users/Rushy/Desktop/test.html",
+		"/C/Users/Rushy/OneDrive/documents/Projects/HTML/panchr.me/public_html/css/styles.css",
+		"/C/Users/Rushy/OneDrive/documents/Projects/HTML/panchr.me/doge/js/status.js",
+		"/C/Users/Rushy/Desktop/repositories.php",
+		"/C/Users/Rushy/OneDrive/documents/Projects/HTML/panchr.me/public_html/css/index.scss",
+		"/C/Users/Rushy/OneDrive/documents/Projects/HTML/panchr.me/public_html/assets/js/bootstrap.js",
+		"/C/Users/Rushy/OneDrive/documents/Projects/HTML/panchr.me/panchr.me.sublime-project",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/functions.php",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/.htaccess",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/public_html/css/styles.scss",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/public_html/header.php",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/public_html/about.php",
+		"/C/Users/Panchr/OneDrive/Documents/Projects/HTML/Parkar.de/parkar-lib.php",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/public_html/assets/css/menu.scss",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/public_html/assets/js/menu.js",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/public_html/js/index.js",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/public_html/assets/css/_menulib.scss",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/public_html/assets/.htcaccess",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/public_html/assets/js/lib.js",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/public_html/404.php",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/doge/js/status.js",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/public_html/css/styles.css.map",
+		"/C/Users/Panchr/OneDrive/Documents/Projects/HTML/panchr.me/.git/COMMIT_EDITMSG",
+		"/C/Users/Panchr/OneDrive/Documents/Projects/HTML/panchr.me/.git/rebase-merge/git-rebase-todo",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/public_html/index.php",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/public_html/css/_lib.scss",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/lib.php",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/doge/footer.php",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/public_html/css/styles.css",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/public_html/footer.php",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/public_html/test_header.html",
+		"/C/Users/Panchr/OneDrive/Documents/Projects/HTML/panchr.me/public_html/header.php",
+		"/C/Users/Panchr/OneDrive/Documents/Projects/HTML/panchr.me/functions.php",
+		"/C/Users/Panchr/OneDrive/Documents/Projects/HTML/panchr.me/public_html/index.html",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/update-status.py",
+		"/C/Users/Panchr/skydrive/desktop/get-pip.py",
+		"/C/Users/Panchr/OneDrive/Documents/Projects/HTML/panchr.me/.htaccess",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/doge/index.php",
+		"/C/Users/panchr/SkyDrive/documents/Projects/HTML/panchr.me/public_html/errors/404.php",
+		"/C/Users/panchr/SkyDrive/documents/Projects/HTML/panchr.me/panchr.me.sublime-project",
+		"/C/Users/panchr/skydrive/Desktop/test.py",
+		"/C/Users/panchr/SkyDrive/Desktop/test..py",
+		"/C/Users/panchr/skydrive/documents/Modules/wire.py",
+		"/C/Users/panchr/skydrive/documents/Modules/tk.py",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/.git/COMMIT_EDITMSG",
+		"/C/Users/panchr/SkyDrive/documents/Projects/HTML/panchr.me/public_html/repositories.php",
+		"/C/Users/panchr/SkyDrive/documents/Projects/HTML/panchr.me/public_html/about.php",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/page.php",
+		"/C/Users/panchr/SkyDrive/documents/Projects/HTML/panchr.me/public_html/css/index.scss",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/public_html/css/repo.scss",
+		"/C/Users/panchr/SkyDrive/documents/Projects/HTML/panchr.me/public_html/css/repo.scs",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/doge/header.php",
+		"/C/Users/panchr/SkyDrive/documents/Projects/HTML/panchr.me/public_html/assets/js/lib.js",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/public_html/assets/js/linked.dividers.js",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/public_html/js/main.js",
+		"/C/Users/panchr/skydrive/documents/Project Backups/linux_installer.py.2013-09-12_210933.bak",
+		"/C/Users/panchr/skydrive/documents/Project Backups/musicretriever.py.2013-09-05_135303.bak",
+		"/C/Users/panchr/skydrive/documents/Projects/MATLAB/greedyClimb.m",
+		"/C/Users/panchr/skydrive/documents/Projects/MATLAB/eigcentrality.m",
+		"/C/Users/panchr/skydrive/documents/Projects/MATLAB/cascade.m",
+		"/C/Users/panchr/skydrive/documents/Projects/MATLAB/cascadeEvan.m",
+		"/C/Users/panchr/skydrive/documents/Projects/MATLAB/averageInfected.m",
+		"/C/Users/panchr/skydrive/documents/Projects/MATLAB/cascade.mat",
+		"/C/Users/panchr/skydrive/documents/Projects/MATLAB/finalProject.m",
+		"/C/Users/panchr/skydrive/documents/Projects/Python/pyreddit-computer/src/compute.py",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.github.io/index.html",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/panchr.me/.git/config",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/lib/js/linked.dividers.js/linked.dividers/linked.dividers.min.js",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/lib/js/linked.dividers.js/linked.dividers/linked.dividers.js",
+		"/C/Users/panchr/skydrive/documents/Projects/HTML/lib/js/jScroll/jScroll.js",
+		"/C/Users/panchr/SkyDrive/documents/Projects/HTML/lib/js/jScroll/jScroll.min.js",
+		"/C/Users/panchr/SkyDrive/documents/Projects/HTML/lib/js/jScroll/jScroll.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\panchr\\skydrive\\documents\\Projects\\GitHub\\Cellular-Automata\\src\\lib\\defaults"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Assert that two objects",
+			"(.{0,6}) object to compare",
+			"public static void assert(.+)\\(Comparable a, Comparable b",
+			"static ",
+			"Comparable<Object>",
+			"Comparable a, Comparable b",
+			"public static void assert(.+)\\(Comparable a, Comparable b",
+			"equals(",
+			"check(a, b);",
+			"public static void assert(.+)\\(Comparable a, Comparable b",
+			"Comparable a, Comparable b",
+			"compareTo(a, b)",
+			"Object a, Object b",
+			"compareTo(a, b)",
+			"numberTests++;",
+			"public static boolean assert",
+			"return",
+			"CACHED_DATA",
+			"table",
+			"repo-data-group",
+			"h4 h-inline",
+			"data",
+			"squash",
+			"#scroll-button",
+			".nav-button",
+			"<?php echo",
+			".link",
+			"background:",
+			".icon-button",
+			"fa",
+			"bool(export_name)",
+			"\"{prefix}_{base}\"",
+			"print",
+			"self.",
+			"self",
+			"delete",
+			"resetBuy",
+			"\"log",
+			"SETTINGS.limits",
+			"SETTINGS.tiers",
+			"sendP",
+			"SETTINGS.limit",
+			"\\tif not matches",
+			"\\t ",
+			"if not matches",
+			"if not match",
+			"overfow",
+			"display:",
+			".slider-button",
+			".full",
+			"60vh",
+			".btn-pr",
+			"background-color",
+			"this.ids",
+			"id",
+			"new_id",
+			"width",
+			".center",
+			".ids",
+			"-100",
+			"100",
+			"function() ",
+			"scroll-down-button",
+			"margin-",
+			"</body>",
+			"hr",
+			"header",
+			".main-",
+			"{",
+			"visibility: no",
+			"visibili",
+			"color:",
+			"repo-table",
+			"repos",
+			"padding",
+			"16",
+			"widget-image",
+			"feature-widget",
+			"iconfont-90",
+			"github",
+			"		\n",
+			"\"log\"",
+			"self.db.insert\\(\\\"log\\\", type = (\\d+), event = (.+)\\)",
+			"self.db.insert(\"log",
+			" ( +)/<",
+			" ( )+<",
+			" ",
+			"    ",
+			"     ",
+			"except req",
+			"3,",
+			"self.dateEntry1",
+			"\"tx\"",
+			"round",
+			"def find",
+			"tview",
+			"REPLIES.",
+			"self.db.fet",
+			"def exe",
+			"Entry",
+			"self.reset_",
+			"#",
+			"cursor",
+			"escapeString",
+			"logError",
+			"blacklist",
+			"\")\n",
+			"log",
+			"\")\n",
+			"print",
+			"def insert",
+			"self.db.insert",
+			"db.insert(\"log",
+			"85",
+			"db.insert",
+			"self.db.insert(\"log",
+			".select",
+			"matches[",
+			"matches[0]",
+			"+purchase",
+			"rate",
+			"height =",
+			"height = ",
+			"user_data",
+			"ORDER",
+			"self.resultDisplay",
+			".get_emails",
+			".update"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Assert that two Comparable objects",
+			"$1 object (must implement Comparable interface) to compare",
+			"public static <T extends Comparable<T>> void assert$1(T a, T b",
+			"public static <T> void assert$1(Comparable<T> a, Comparable<T> b",
+			"",
+			"Comparable",
+			"Comparable<Fraction>",
+			"Comparable<Object> a, Comparable<Object> b",
+			"public static <T> void assert$1(Comparable<T> a, Comparable<T> b",
+			"assertEquals(",
+			"numberTests++;",
+			"public static <T> void assert$1(Comparable<T> a, Comparable<T> b",
+			"Comparable<Object> a, Comparable<Object> b",
+			"a.compareTo(b)",
+			"Comparable a, Comparable b",
+			"a.compareTo(b)",
+			"check(a, b);",
+			"public static void assert",
+			"DATA_CACHE",
+			"repository-data-group",
+			"h3 h-inline",
+			"h3-inline",
+			"repo",
+			"fixup",
+			"<?=",
+			"export_bool",
+			"export_base",
+			"",
+			"this.divs",
+			"div",
+			"new_div",
+			".slides",
+			"scroll-button",
+			"lang-feature-widget",
+			"icon-90",
+			"self.log(\\1, \\2)",
+			"self.log(%1, %2)",
+			"\\t<",
+			"\\t",
+			"historyDisplay",
+			"user",
+			"matches[\"usd\"]",
+			"self.userResultDisplay",
+			"self.db",
+			"self.db.",
+			"sql.escapeString",
+			"\\n\\n",
+			"REPLIES",
+			"DB",
+			"",
+			"\"users\"",
+			"$TICKET_QUERIES",
+			"Chaotic Automata",
+			"self.cellspace",
+			"about",
+			".initial",
+			"self, SETTINGS.width / 2",
+			"else SETTINGS.height / 2",
+			"/ 10",
+			"SETTINGS.width",
+			"SETTINGS.height / 5 if OPTIONS.dimension == 1 else SETTINGS.height",
+			"half_width",
+			"xrange",
+			"\\t",
+			"self.screenFrame",
+			"isActive",
+			"heightheight",
+			"height",
+			"grid",
+			"width",
+			".graph",
+			"this",
+			"1.25",
+			"0.8",
+			"0.75",
+			"buttonclicked"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "JTester.java",
+					"settings":
+					{
+						"buffer_size": 3548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								794,
+								794
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1010.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 236.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/panchr/skydrive/documents/Projects/GitHub/PySQLite/etc/pysqlite.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true
+}
