@@ -21,9 +21,8 @@ public class JTester {
 			failedTests++;
 			StackTraceElement[] errorStack = error.getStackTrace();
 			StackTraceElement caller = errorStack[errorStack.length - 1];
-			String errorMessage = String.format("Assertion %d failed: %s\n\tFile:\t%s\n\tLine:\t%d\n\tClass:\t%s\n", 
+			System.out.printf("Assertion %d failed: %s\n\tFile:\t%s\n\tLine:\t%d\n\tClass:\t%s\n", 
 				numberTests, message, caller.getFileName(), caller.getLineNumber(), caller.getClassName());
-			System.out.println(errorMessage);
 			}
 		}
 
@@ -48,7 +47,7 @@ public class JTester {
 	// Assertion Functions
 
 	/**
-	* Assert that two objects are equal
+	* Assert that two Comparable objects are equal
 	* @param a First object to compare
 	* @param b Second object to compare
 	*/
@@ -60,7 +59,19 @@ public class JTester {
 		}
 
 	/**
-	* Assert that two objects are not equal
+	* Assert that two objects are equal
+	* @param a First object to compare
+	* @param b Second object to compare
+	*/
+	public static void assertEquals(Object a, Object b) {
+		numberTests++;
+		if (!a.equals(b)) {
+			error(String.format("%s != %s", a, b));
+			}
+		}
+
+	/**
+	* Assert that two Comparable objects are not equal
 	* @param a First object to compare
 	* @param b Second object to compare
 	*/
@@ -68,6 +79,18 @@ public class JTester {
 		numberTests++;
 		if (a.compareTo(b) == 0) {
 			error(String.format("%s == %s", a, b));
+			}
+		}
+
+	/**
+	* Assert that two objects are not equal
+	* @param a First object to compare
+	* @param b Second object to compare
+	*/
+	public static void assertNotEquals(Object a, Object b) {
+		numberTests++;
+		if (a.equals(b)) {
+			error(String.format("%s != %s", a, b));
 			}
 		}
 
