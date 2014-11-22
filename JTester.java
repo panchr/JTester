@@ -31,7 +31,7 @@ public class JTester {
 
 	/**
 	* Gets the number of performed tests
-	* @return number of tests performed so far
+	* @return number of tests performed (so far)
 	*/
 	public static int getNumberTests() {
 		return numberTests;
@@ -39,7 +39,7 @@ public class JTester {
 
 	/**
 	* Gets the number of failed tests
-	* @return number of tests failed so far
+	* @return number of tests failed (so far)
 	*/
 	public static int getNumberFailedTests() {
 		return failedTests;
@@ -140,6 +140,33 @@ public class JTester {
 		numberTests++;
 		if (a.compareTo(b) > 0) {
 			error(String.format("%s > %s", a , b));
+			}
+		}
+
+	// Array assertions
+
+	public static <T extends Comparable<T>> void assertArrayEquals(T[] a, T[] b) {
+		numberTests++;
+		if (a.length != b.length) {
+			error("Array lengths are not equal");
+			}
+		else {
+			for (int index = 0; index < a.length; index++) {
+				T elemA = a[index], elemB = b[index];
+				if (!elemA.equals(elemB)) {
+					error(String.format("%s != %s", elemA, elemB));
+					}
+				}
+			}
+		}
+
+	public static <T extends Comparable<T>> void assertArrayNotEquals(T[] a, T[] b) {
+		numberTests++;
+		for (int index = 0; index < Math.min(a.length, b.length); index++) {
+			T elemA = a[index], elemB = b[index];
+			if (elemA.equals(elemB)) {
+				error(String.format("%s == %s", elemA, elemB));
+				}
 			}
 		}
 	}
