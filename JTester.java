@@ -1,7 +1,8 @@
 /**
 * JTester provides a simple extendable Unit Testing class
-* @author Rushy Panchal
+* @author Rushy Panchal <panchal.rushy@gmail.com>
 * @version 0.2 (Alpha)
+* @since November 21, 2014
 */
 
 public class JTester {
