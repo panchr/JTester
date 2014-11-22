@@ -123,7 +123,7 @@ public class JTester {
 	* @param a First object to compare
 	* @param b Second object to compare
 	*/
-	public static <T extends Comparable<T>> void assertGeq(T a, T b) {
+	public static <T extends Comparable<T>> void assertGreaterThanOrEqualTo(T a, T b) {
 		numberTests++;
 		if (a.compareTo(b) < 0) {
 			error(String.format("%s < %s", a , b));
@@ -135,7 +135,7 @@ public class JTester {
 	* @param a First object to compare
 	* @param b Second object to compare
 	*/
-	public static <T extends Comparable<T>> void assertLeq(T a, T b) {
+	public static <T extends Comparable<T>> void assertLessThanOrEqualTo(T a, T b) {
 		numberTests++;
 		if (a.compareTo(b) > 0) {
 			error(String.format("%s > %s", a , b));
