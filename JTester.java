@@ -1,7 +1,7 @@
 /**
 * JTester provides a simple extendable Unit Testing class
 * @author Rushy Panchal
-* @version 0.1 (Alpha)
+* @version 0.2 (Alpha)
 */
 
 public class JTester {
@@ -21,7 +21,7 @@ public class JTester {
 			failedTests++;
 			StackTraceElement[] errorStack = error.getStackTrace();
 			StackTraceElement caller = errorStack[errorStack.length - 1];
-			String errorMessage = String.format("Assertion %d failed: %s\n\tFile:\n\t\t%s\n\tLine:\n\t\t%d\n\tClass:\n\t\t%s\n", 
+			String errorMessage = String.format("Assertion %d failed: %s\n\tFile:\t%s\n\tLine:\t%d\n\tClass:\t%s\n", 
 				numberTests, message, caller.getFileName(), caller.getLineNumber(), caller.getClassName());
 			System.out.println(errorMessage);
 			}
@@ -52,7 +52,7 @@ public class JTester {
 	* @param a First object to compare
 	* @param b Second object to compare
 	*/
-	public static void assertEquals(Comparable a, Comparable b) {
+	public static <T extends Comparable<T>> void assertEquals(T a, T b) {
 		numberTests++;
 		if (a.compareTo(b) != 0) {
 			error(String.format("%s != %s", a, b));
@@ -64,7 +64,7 @@ public class JTester {
 	* @param a First object to compare
 	* @param b Second object to compare
 	*/
-	public static void assertNotEqual(Comparable a, Comparable b) {
+	public static <T extends Comparable<T>> void assertNotEqual(T a, T b) {
 		numberTests++;
 		if (a.compareTo(b) == 0) {
 			error(String.format("%s == %s", a, b));
@@ -76,7 +76,7 @@ public class JTester {
 	* @param a First object to compare
 	* @param b Second object to compare
 	*/
-	public static void assertGreaterThan(Comparable a, Comparable b) {
+	public static <T extends Comparable<T>> void assertGreaterThan(T a, T b) {
 		numberTests++;
 		if (a.compareTo(b) <= 0) {
 			error(String.format("%s <= %s", a , b));
@@ -88,7 +88,7 @@ public class JTester {
 	* @param a First object to compare
 	* @param b Second object to compare
 	*/
-	public static void assertLessThan(Comparable a, Comparable b) {
+	public static <T extends Comparable<T>> void assertLessThan(T a, T b) {
 		numberTests++;
 		if (a.compareTo(b) >= 0) {
 			error(String.format("%s >= %s", a , b));
@@ -100,7 +100,7 @@ public class JTester {
 	* @param a First object to compare
 	* @param b Second object to compare
 	*/
-	public static void assertGeq(Comparable a, Comparable b) {
+	public static <T extends Comparable<T>> void assertGeq(T a, T b) {
 		numberTests++;
 		if (a.compareTo(b) < 0) {
 			error(String.format("%s < %s", a , b));
@@ -112,7 +112,7 @@ public class JTester {
 	* @param a First object to compare
 	* @param b Second object to compare
 	*/
-	public static void assertLeq(Comparable a, Comparable b) {
+	public static <T extends Comparable<T>> void assertLeq(T a, T b) {
 		numberTests++;
 		if (a.compareTo(b) > 0) {
 			error(String.format("%s > %s", a , b));
