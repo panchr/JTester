@@ -18,6 +18,7 @@ sftp-config.json
 
 
 ### Java ###
+docs/
 *.class
 
 # Mobile Tools for Java (J2ME)
